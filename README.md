@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 - **Smart Data Hub System**: A centralized data management solution for handling large volumes of data with efficiency.
 
 ### 🌱 I’m currently learning:
-- Advanced API design and development
-- Google Cloud and Zapier automation
-- Real-time data handling with WebSockets
+- API Integration 
+- Full-stack development
+- Real-time data handling with AJAX requests
 - Continuous Integration & Deployment (CI/CD)
 
 ### 👯 I’m looking to collaborate on:
