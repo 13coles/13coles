@@ -1,23 +1,21 @@
 ## Hi there 👋 I'm Eric John Coles
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in back-end development, particularly with PHP and the Laravel framework. I enjoy solving problems and building applications that provide value to users. I have a solid background in developing web-based systems and enjoy taking on new challenges to expand my skills.
+Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in software development, particularly with PHP and the Laravel framework. I enjoy solving problems and building applications that provide value to users. I have a solid background in developing web-based systems and enjoy taking on new challenges to expand my skills.
 
 ### 🔭 I’m currently working on:
-- **Quiz-Application using LAN network**: A local network-based quiz system allowing real-time participation from connected devices.
-- **Sales and Supply Management System**: A robust system to manage product sales and supply chain operations efficiently.
-- **POS System using QR Code Scanner**: An easy-to-use point-of-sale system that integrates QR code scanning for faster transactions.
-- **Event Management System with SMS and Weather Forecast API**: A system that streamlines event management, including SMS notifications and weather forecasting for real-time updates.
-- **Smart Data Hub System**: A centralized data management solution for handling large volumes of data with efficiency.
+- **Math reviewer-Application**: Developed a Math Reviewer Application: A web-based platform designed to help students improve their learning with interactive quizzes.
 
 ### 🌱 I’m currently learning:
-- API Integration 
+- API Integration
+- Web Security and performance optimization 
 - Full-stack development
 - Real-time data handling with AJAX requests
 - Continuous Integration & Deployment (CI/CD)
 
 ### 👯 I’m looking to collaborate on:
-- Web-based systems that involve data management, API integrations, and business processes automation.
-- Projects involving real-time communication and notifications.
+- Looking for collaborations on web-based systems that streamline data management, automate business processes, or integrate with real-time APIs.
+- Projects involving real-time communication and notification.
+- Projects that can help to community.
 
 ### 💬 Ask me about:
 - PHP, Laravel, JavaScript (AJAX, jQuery)
